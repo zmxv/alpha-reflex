@@ -1,11 +1,12 @@
 'use strict';
 
-var React = require('react-native');
-var {
-  StyleSheet,
-  Text,
-  View,
-} = React;
+import React from 'react';
+
+import {
+    Text,
+    View,
+    StyleSheet,
+} from 'react-native';
 
 var BoardView = require('./boardview.js');
 
